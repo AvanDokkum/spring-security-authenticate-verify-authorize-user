@@ -1,0 +1,12 @@
+:root {
+  --color-black: black;
+}
+
+/* Footer section */
+.footer {
+  background: var(--color-black);
+  display: flex;
+  justify-content: center;
+  /* flex-wrap: wrap; */
+  /* align-items: center; */
+}
