@@ -13,7 +13,6 @@ import static com.avd.security.user.Role.*;
 public class SecurityApplication {
 
 	/*
-	*
 	* NOTES / PROBLEMS:
 	* testing: commits are pushed with wrong GitHub account?
 	*/
